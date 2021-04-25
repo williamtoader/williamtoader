@@ -10,3 +10,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=williamtoader&show_icons=true&theme=dark"/>
 </p>  
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=williamtoader&theme=dark&hide_border=false"/>
+</p>  
