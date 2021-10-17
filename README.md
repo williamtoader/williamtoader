@@ -14,3 +14,9 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=williamtoader&theme=dark&hide_border=false"/>
 </p>  
+
+## My gists  
+
+[Quick and dirty fix for MiniPID-Java](https://gist.github.com/williamtoader/bdd49704c3b28b80082b664f1c3edcbc)
+[ESP8266 TCP socket server to UART - with wifi AP config](https://gist.github.com/williamtoader/e02a704a8127276fd5745a6c61648c55)
+[Macbook keyboard backlight hack - by sending virtual key press events](https://gist.github.com/williamtoader/1e0a5bc2277ffc9d2943ffb64279314a)
