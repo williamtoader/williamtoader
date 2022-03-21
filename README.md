@@ -4,7 +4,6 @@
   
 [![Instagram](https://img.shields.io/static/v1?label=Instagram&message=wiliamtoader&color=db003a&style=flat-square&logo=instagram)](https://www.instagram.com/wiliamtoader/)
 [![Twitter](https://img.shields.io/static/v1?label=Twitter&message=WToader&color=00a4db&style=flat-square&logo=twitter)](https://twitter.com/WToader)
-[![LBRY](https://img.shields.io/static/v1?label=LBRY&message=@WiliamToader&color=55f492&style=flat-square)](https://odysee.com/@WiliamToader:362f4ad75f2922b37a8bdce0e8d4afdeb1af3495)  
   
 
 <p align="center">
